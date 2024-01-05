@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+    text-transform: uppercase;
+}
+div{
+    width: 50%;
+    margin: 25%;
+}
+.racoonimg{
+    border: 5px solid white;
+    width: 100%;
+}
+h1{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 400;
+}
